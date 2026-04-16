@@ -1,4 +1,4 @@
-# Amazon Prime Video Dashboard - Power BI
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e31c1ef-28dc-4ae0-803a-84477f198b0f" /># Amazon Prime Video Dashboard - Power BI
 
 ## Overview
 The Amazon Prime Video Dashboard provides a comprehensive analysis of movies and TV shows available on the platform. This project was developed using Power BI to transform raw data into meaningful insights through interactive visualizations. The dashboard helps in understanding content distribution, genre trends, ratings, and growth of shows over time, enabling better data-driven insights.
@@ -7,7 +7,8 @@ The Amazon Prime Video Dashboard provides a comprehensive analysis of movies and
 
 ## Dashboard Screenshots
 
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/23a8aeae-a95a-481b-b956-df7bc79e351c" />
+
 
 ---
 
@@ -82,8 +83,8 @@ This dashboard provides valuable insights for content analysts, streaming platfo
 
 ## Author
 **Abhishek Sakhare**  
-NIT Agartala  
-Aspiring Full Stack Developer & Data Enthusiast  
+NIT Agartala 
+Data Analysis Enthusiast  
 
 ---
 
